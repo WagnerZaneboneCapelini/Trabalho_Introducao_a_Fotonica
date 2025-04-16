@@ -1,8 +1,8 @@
 """Test Snap Package Template."""
 
-import snap_package_template
+import trabalho_introducao_a_fotonica
 
 
 def test_import() -> None:
     """Test that the package can be imported."""
-    assert isinstance(snap_package_template.__name__, str)
+    assert isinstance(trabalho_introducao_a_fotonica.__name__, str)
